@@ -1,8 +1,8 @@
 # Spherical Harmonics
 
-[![Jupyter](https://img.shields.io/static/v1.svg?logo=jupyter&label=Jupyter&message=View%20On%20Github&color=lightgreen)](src/circular_harmonics.ipynb)
+[![Jupyter](https://img.shields.io/static/v1.svg?logo=jupyter&label=Jupyter&message=View%20On%20Github&color=lightgreen)](src/spherical_harmonics.ipynb)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkofinas/circular-harmonics/src/circular_harmonics.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkofinas/circular-harmonics/src/spherical_harmonics.ipynb)
 
 
 Visualizations of spherical harmonics.
@@ -11,6 +11,8 @@ Visualizations of spherical harmonics.
 
 ![Glyph Spherical Harmonics](img/glyph_sph_harmonics.svg)
 
+
+See also my [post on circular harmonics](https://github.com/mkofinas/circular-harmonics).
 
 ## Sources
 
